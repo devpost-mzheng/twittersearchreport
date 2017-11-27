@@ -1,4 +1,6 @@
-# Twitter Search Report
+# Twitter Search Report 
+
+🔥
 
 This is the spiritual successor to [HootSuite Extractor](http://devpost.com/software/hootsuite-extractor).
 
