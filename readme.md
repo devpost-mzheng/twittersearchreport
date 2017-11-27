@@ -1,7 +1,5 @@
 # Twitter Search Report 
 
-🔥
-
 This is the spiritual successor to [HootSuite Extractor](http://devpost.com/software/hootsuite-extractor).
 
 HootSuite changed their CSS (breaking HSE) and rather than refactoring a chrome extension and server-side code, I figured I could just write a better Python script and hit the Twitter API directly.
